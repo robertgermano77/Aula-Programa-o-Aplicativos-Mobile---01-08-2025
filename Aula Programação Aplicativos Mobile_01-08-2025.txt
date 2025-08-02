@@ -1,0 +1,29 @@
+Classe é um template ou um desenho ou ainda um molde de um objeto do mundo real.
+
+Atributos é aquilo que a nossa clase tem, ou seja, o que define a classe.
+
+Nome de variáveis e de métodos sempre começam com letra minúscula não podendo conter espaço, acento, ç, caracteres especiais e não é permitido começar com números. Quando o nome for composto a primeira letra das palavras seguinte sera maiúscula.
+
+Ex.: dataNascimento, nome, idade, diaDaSemana, telefoneComercial
+
+Nome de classe sempre começa com a letra maiúscula.
+Ex.: ContaCorrente, Agencia
+Padrao camelCase
+
+Tipos de variáveis (Primitivos):
+---------------------------------
+
+Inteiros: int
+        -> int idade = 16;
+
+Reais/Flutuantes: double ou float
+        -> double salario = 17.450;
+
+caractere: char
+        -> char sexo = 'F';
+
+Booleano: boolean
+        -> boolean isClientePrivate = true;
+
+Cadeia de caracteres: String (não é primitivo)
+          -> String cliente = "Josefino";
